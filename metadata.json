@@ -1,0 +1,7 @@
+{
+  "name": "VNPT-IT AI Co-Pilot",
+  "description": "An AI-powered meeting assistant for recording, transcribing, and analyzing meetings with Fireflies integration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
